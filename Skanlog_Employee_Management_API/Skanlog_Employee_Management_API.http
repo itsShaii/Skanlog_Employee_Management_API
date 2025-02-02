@@ -1,0 +1,6 @@
+@Skanlog_Employee_Management_API_HostAddress = http://localhost:5141
+
+GET {{Skanlog_Employee_Management_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
